@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi fellow humans,
+
+You are now in the zone 😎.
